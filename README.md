@@ -68,8 +68,8 @@ Smart circuit recommendation and connection verification platform.
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/satya-santhosh-alla-354a55287](http://www.linkedin.com/in/satya-santhosh-alla-354a55287)
-* GitHub: https://github.com/SatyaSanthoshAlla
-* Instagram: https://www.instagram.com/satyasanthoshalla/
+* GitHub:[https://github.com/SatyaSanthoshAlla]
+* Instagram: [https://www.instagram.com/satyasanthoshalla/]
 
 ---
 
